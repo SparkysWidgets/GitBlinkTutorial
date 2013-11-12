@@ -11,7 +11,7 @@
 /
 // FIXME: We are using a LeoPhi board with has an RGB hook to pins 9,10,11 (all PWM) 
 // if following along (and using an arduino) Pin 13 has an LED connected on most Arduino boards. 
-int led = 2; //If you are using an arduino for this example change pin to 13, for leophi to pin 11
+int led = 11; //If you are using an arduino for this example change pin to 13, for leophi to pin 11
 
 // the setup routine runs once when you press reset:
 void setup() {                
